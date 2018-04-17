@@ -6,4 +6,4 @@ I use versions of npm, webpack, webpack-cli, babel, Flask, and React that are mo
 
 I used [this guide](https://webpack.js.org/guides/getting-started/) to ensure that I set up Webpack correctly.
 
-Instructions for installing and creating a virtualenv can be found [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/)
+Instructions for installing and creating a virtualenv can be found [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
